@@ -1,0 +1,96 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+}
+#navFirst img {
+  position: absolute;
+  top: 5vh;
+  left: 5vw;
+}
+#navMid div {
+  display: inline-block;
+  margin-left: 8%;
+}
+#navMid {
+  margin-left: 20vw;
+  margin-top: 2%;
+}
+#navMid div :hover {
+  text-decoration: underline;
+}
+#navEnd div {
+  display: inline-block;
+  margin-left: 12%;
+}
+#navEnd {
+  margin-left: 79vw;
+  margin-top: -7vh;
+}
+#imgMain {
+  height: 80vh;
+  width: 45vw;
+  position: absolute;
+  top: 18vh;
+  left: 55vw;
+}
+ul {
+  display: block;
+  position: absolute;
+  left: 3vw;
+  top: 35vh;
+  width: 50%;
+  opacity: 1.5;
+  margin-top: 20px;
+  height: 60%;
+}
+#monstera {
+  font-size: 90px;
+  font-weight: 900;
+  position: absolute;
+  top: -22vh;
+}
+#midWholePart121 div h1 {
+  position: absolute;
+  left: 15vw;
+  top: 57vh;
+  background-color: #6ec72d;
+  padding: 10px 33px;
+  color: white;
+  border-radius: 10px;
+}
+#feeding {
+  position: fixed;
+  left: 3vw;
+  top: 73vh;
+}
+#light {
+  position: fixed;
+  left: 22vw;
+  top: 75vh;
+}
+#care {
+  position: fixed;
+  left: 38vw;
+  top: 75vh;
+}
+#midWholePart122 img {
+  position: absolute;
+  left: 31.5vw;
+  top: 63vh;
+  background-color: #6ec72d;
+}
+#midWholePart13 {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  position: relative;
+  top: 60vh;
+  left: 10vw;
+}
+p {
+  width: 50%;
+  font-size: 10px;
+  position: relative;
+  bottom: 3vh;
+}
